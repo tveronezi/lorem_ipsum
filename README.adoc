@@ -2,4 +2,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis lectus ante. In hac habitasse platea dictumst. Vivamus a metus id sem porttitor eleifend non in leo. Curabitur imperdiet purus laoreet est elementum, in varius ipsum mattis. Vivamus quis viverra lorem. Fusce tincidunt neque et massa dictum, faucibus placerat lectus varius. Vivamus finibus in enim sit amet auctor. Nullam congue nunc vitae sem tincidunt auctor. Nulla facilisi. Nunc gravida dignissim ipsum, ac finibus nunc. Donec a neque tortor. In ultrices sit amet lorem quis facilisis. Praesent ut nisl nec lectus luctus laoreet at sit amet neque. Curabitur rutrum ipsum ac risus lobortis imperdiet. Donec semper, dui nec scelerisque mattis, tellus velit ullamcorper augue, eu vehicula tellus metus ut lacus. Vestibulum diam turpis, ornare vel tempor in, varius mattis tellus.
 
+
+image::monitor.jpg[Nulla et tempus]
+
+
 Donec molestie felis eu lectus lacinia, eu tincidunt risus finibus. Nunc vulputate vitae dolor pharetra gravida. Donec tempor lectus erat, et ultrices urna porttitor vitae. Nulla dictum eros et cursus efficitur. Donec hendrerit odio in fringilla malesuada. Nulla et tempus nibh. Mauris fringilla mollis neque, id pharetra nulla accumsan id. Mauris odio ex, congue ut blandit non, tempus vel est. Aliquam porttitor dui sit amet lorem maximus, non vestibulum augue bibendum. Ut non sem consequat, luctus orci ut, pretium enim. Vestibulum dapibus massa sem, iaculis accumsan dolor hendrerit quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam massa ligula, laoreet a orci eu, aliquam interdum eros. Cras mollis venenatis luctus. Praesent quis posuere nulla.
